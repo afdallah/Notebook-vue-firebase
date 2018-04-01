@@ -1,6 +1,6 @@
-# notebook
+# Note Taking web apps
 
-> A Vue.js project
+> My first vue apps + firebase for presisting data.
 
 ## Build Setup
 
